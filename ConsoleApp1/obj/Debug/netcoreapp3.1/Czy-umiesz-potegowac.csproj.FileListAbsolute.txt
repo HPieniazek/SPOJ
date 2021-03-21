@@ -1,0 +1,12 @@
+C:\Users\Hub\source\repos\SPOJ\ConsoleApp1\bin\Debug\netcoreapp3.1\Czy-umiesz-potegowac.exe
+C:\Users\Hub\source\repos\SPOJ\ConsoleApp1\bin\Debug\netcoreapp3.1\Czy-umiesz-potegowac.deps.json
+C:\Users\Hub\source\repos\SPOJ\ConsoleApp1\bin\Debug\netcoreapp3.1\Czy-umiesz-potegowac.runtimeconfig.json
+C:\Users\Hub\source\repos\SPOJ\ConsoleApp1\bin\Debug\netcoreapp3.1\Czy-umiesz-potegowac.runtimeconfig.dev.json
+C:\Users\Hub\source\repos\SPOJ\ConsoleApp1\bin\Debug\netcoreapp3.1\Czy-umiesz-potegowac.dll
+C:\Users\Hub\source\repos\SPOJ\ConsoleApp1\bin\Debug\netcoreapp3.1\Czy-umiesz-potegowac.pdb
+C:\Users\Hub\source\repos\SPOJ\ConsoleApp1\obj\Debug\netcoreapp3.1\Czy-umiesz-potegowac.AssemblyInfoInputs.cache
+C:\Users\Hub\source\repos\SPOJ\ConsoleApp1\obj\Debug\netcoreapp3.1\Czy-umiesz-potegowac.AssemblyInfo.cs
+C:\Users\Hub\source\repos\SPOJ\ConsoleApp1\obj\Debug\netcoreapp3.1\Czy-umiesz-potegowac.csproj.CoreCompileInputs.cache
+C:\Users\Hub\source\repos\SPOJ\ConsoleApp1\obj\Debug\netcoreapp3.1\Czy-umiesz-potegowac.dll
+C:\Users\Hub\source\repos\SPOJ\ConsoleApp1\obj\Debug\netcoreapp3.1\Czy-umiesz-potegowac.pdb
+C:\Users\Hub\source\repos\SPOJ\ConsoleApp1\obj\Debug\netcoreapp3.1\Czy-umiesz-potegowac.genruntimeconfig.cache
