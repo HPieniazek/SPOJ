@@ -1,0 +1,13 @@
+C:\Users\Hub\source\repos\SPOJ\SPOJ\dodawanieLiczbCalkowitych\bin\Debug\netcoreapp3.1\dodawanieLiczbCalkowitych.exe
+C:\Users\Hub\source\repos\SPOJ\SPOJ\dodawanieLiczbCalkowitych\bin\Debug\netcoreapp3.1\dodawanieLiczbCalkowitych.deps.json
+C:\Users\Hub\source\repos\SPOJ\SPOJ\dodawanieLiczbCalkowitych\bin\Debug\netcoreapp3.1\dodawanieLiczbCalkowitych.runtimeconfig.json
+C:\Users\Hub\source\repos\SPOJ\SPOJ\dodawanieLiczbCalkowitych\bin\Debug\netcoreapp3.1\dodawanieLiczbCalkowitych.runtimeconfig.dev.json
+C:\Users\Hub\source\repos\SPOJ\SPOJ\dodawanieLiczbCalkowitych\bin\Debug\netcoreapp3.1\dodawanieLiczbCalkowitych.dll
+C:\Users\Hub\source\repos\SPOJ\SPOJ\dodawanieLiczbCalkowitych\bin\Debug\netcoreapp3.1\dodawanieLiczbCalkowitych.pdb
+C:\Users\Hub\source\repos\SPOJ\SPOJ\dodawanieLiczbCalkowitych\obj\Debug\netcoreapp3.1\dodawanieLiczbCalkowitych.csprojAssemblyReference.cache
+C:\Users\Hub\source\repos\SPOJ\SPOJ\dodawanieLiczbCalkowitych\obj\Debug\netcoreapp3.1\dodawanieLiczbCalkowitych.AssemblyInfoInputs.cache
+C:\Users\Hub\source\repos\SPOJ\SPOJ\dodawanieLiczbCalkowitych\obj\Debug\netcoreapp3.1\dodawanieLiczbCalkowitych.AssemblyInfo.cs
+C:\Users\Hub\source\repos\SPOJ\SPOJ\dodawanieLiczbCalkowitych\obj\Debug\netcoreapp3.1\dodawanieLiczbCalkowitych.csproj.CoreCompileInputs.cache
+C:\Users\Hub\source\repos\SPOJ\SPOJ\dodawanieLiczbCalkowitych\obj\Debug\netcoreapp3.1\dodawanieLiczbCalkowitych.dll
+C:\Users\Hub\source\repos\SPOJ\SPOJ\dodawanieLiczbCalkowitych\obj\Debug\netcoreapp3.1\dodawanieLiczbCalkowitych.pdb
+C:\Users\Hub\source\repos\SPOJ\SPOJ\dodawanieLiczbCalkowitych\obj\Debug\netcoreapp3.1\dodawanieLiczbCalkowitych.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Hub\source\repos\SPOJ\SPOJ\TEST - Life, the Universe, and Everything\bin\Debug\netcoreapp3.1\TEST - Life, the Universe, and Everything.exe
+C:\Users\Hub\source\repos\SPOJ\SPOJ\TEST - Life, the Universe, and Everything\bin\Debug\netcoreapp3.1\TEST - Life, the Universe, and Everything.deps.json
+C:\Users\Hub\source\repos\SPOJ\SPOJ\TEST - Life, the Universe, and Everything\bin\Debug\netcoreapp3.1\TEST - Life, the Universe, and Everything.runtimeconfig.json
+C:\Users\Hub\source\repos\SPOJ\SPOJ\TEST - Life, the Universe, and Everything\bin\Debug\netcoreapp3.1\TEST - Life, the Universe, and Everything.runtimeconfig.dev.json
+C:\Users\Hub\source\repos\SPOJ\SPOJ\TEST - Life, the Universe, and Everything\bin\Debug\netcoreapp3.1\TEST - Life, the Universe, and Everything.dll
+C:\Users\Hub\source\repos\SPOJ\SPOJ\TEST - Life, the Universe, and Everything\bin\Debug\netcoreapp3.1\TEST - Life, the Universe, and Everything.pdb
+C:\Users\Hub\source\repos\SPOJ\SPOJ\TEST - Life, the Universe, and Everything\obj\Debug\netcoreapp3.1\TEST - Life, the Universe, and Everything.AssemblyInfoInputs.cache
+C:\Users\Hub\source\repos\SPOJ\SPOJ\TEST - Life, the Universe, and Everything\obj\Debug\netcoreapp3.1\TEST - Life, the Universe, and Everything.AssemblyInfo.cs
+C:\Users\Hub\source\repos\SPOJ\SPOJ\TEST - Life, the Universe, and Everything\obj\Debug\netcoreapp3.1\TEST - Life, the Universe, and Everything.csproj.CoreCompileInputs.cache
+C:\Users\Hub\source\repos\SPOJ\SPOJ\TEST - Life, the Universe, and Everything\obj\Debug\netcoreapp3.1\TEST - Life, the Universe, and Everything.dll
+C:\Users\Hub\source\repos\SPOJ\SPOJ\TEST - Life, the Universe, and Everything\obj\Debug\netcoreapp3.1\TEST - Life, the Universe, and Everything.pdb
+C:\Users\Hub\source\repos\SPOJ\SPOJ\TEST - Life, the Universe, and Everything\obj\Debug\netcoreapp3.1\TEST - Life, the Universe, and Everything.genruntimeconfig.cache

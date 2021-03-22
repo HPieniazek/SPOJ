@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Czy-umiesz-potegowac", "Con
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proste dodawanie", "Proste dodawanie\Proste dodawanie.csproj", "{1487A623-EB76-4DD3-A3C1-1649D293F8E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dodawanieLiczbCalkowitych", "dodawanieLiczbCalkowitych\dodawanieLiczbCalkowitych.csproj", "{6291C0AC-1EE7-4312-94D4-3D463AF306E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEST - Life, the Universe, and Everything", "TEST - Life, the Universe, and Everything\TEST - Life, the Universe, and Everything.csproj", "{B4CCB47B-4DB0-4495-86C1-A205CFFB2562}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{1487A623-EB76-4DD3-A3C1-1649D293F8E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1487A623-EB76-4DD3-A3C1-1649D293F8E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1487A623-EB76-4DD3-A3C1-1649D293F8E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6291C0AC-1EE7-4312-94D4-3D463AF306E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6291C0AC-1EE7-4312-94D4-3D463AF306E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6291C0AC-1EE7-4312-94D4-3D463AF306E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6291C0AC-1EE7-4312-94D4-3D463AF306E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4CCB47B-4DB0-4495-86C1-A205CFFB2562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4CCB47B-4DB0-4495-86C1-A205CFFB2562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4CCB47B-4DB0-4495-86C1-A205CFFB2562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4CCB47B-4DB0-4495-86C1-A205CFFB2562}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
